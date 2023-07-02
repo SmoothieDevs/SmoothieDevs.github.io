@@ -1,0 +1,61 @@
+{
+    "hero": {
+        "title": "Creative Developer",
+        "leftContent": "A web front-end developer portfolio",
+        "rightContent": "Designed & Developed with love"
+    },
+    "works": {
+        "title": "Works",
+        "subtitle": "Discover a selection of my personnal projects & works",
+        "projects": [
+            {
+                "name": "Les Cuistots Migrateurs Blog",
+                "description": "Restaurant website"
+            },
+            {
+                "name": "Possessed",
+                "description": "Video game"
+            },
+            {
+                "name": "Blockup",
+                "description": "Video game"
+            },
+            {
+                "name": "Cézembre",
+                "description": "Booking website"
+            },{
+                "name": "Self Driving Car",
+                "description": "AI and Machine Learning"
+            },
+            {
+                "name": "Stuart Blog",
+                "description": "Delivery service website"
+            },
+            {
+                "name": "Woopen",
+                "description": "Real Estate and housing market network website"
+            },
+            {
+                "name": "Pac-Man & Map Editor",
+                "description": "Java game project"
+            },
+            {
+                "name": "The Game of Life",
+                "description": "Evolutive Simulation"
+            }
+        ]
+    },
+    "about":{
+        "title": "About",
+        "subtitle": "I am William Stephan, also known as Will. I am a computer science student and also a front-end web developer from France. I am passionate about design, UX/UI and web development.<br><br>My goal is to create beautiful, interactive & creative websites using my creativity and my hands."
+    },
+    "touch": {
+        "title": "Get in touch",
+        "subtitle": "Feel free to reach out for collaborations or just a friendly hello ! 🖐️",
+        "name": "Name",
+        "email": "E-mail",
+        "message": "Message",
+        "submit": "Send",
+        "location": "Location"
+    }
+}
